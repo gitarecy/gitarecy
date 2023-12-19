@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">,
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=28&weight=800&width=900&color=1B7DF7&lines=MEET+Developer+Cynthia+Ikirezi+Ndiramiye(gitarecy);)
-<h3>🛠 Language, tools and tech stacks</h3>
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=28&weight=800&width=900&color=1B7DF7&lines=MEET+Developer+Cynthia+Ndiramiye(gitarecy);)
+<h3>🛠 Tech stacks</h3>
 
 ###
 
